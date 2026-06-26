@@ -10,6 +10,7 @@
 - **[tmchow/illo-skill](https://github.com/tmchow/illo-skill)**(Trevin Chow · illo-skill.com)— **顶层架构**:角色/画风双轴 + 方法论常量化("the methodology is the constant; the character and style are the parameters");文体→hero 守则、source-fit 选点复检、结构完整性 QA、角色包机制,以及 config / 后端 / 可安装这套开源工程范式。
 - **[orange2ai/orange-line-illustration](https://github.com/orange2ai/orange-line-illustration)**(橙线 · orange2ai)— **展示模式 B1「极简场景」**方法来源:人极小物极大的尺度戏剧、唯一单点强调色、纯白大留白、右下角灰色金句叙事。⚠️ 该项目闭源商用需授权;本库只借方法、演员用自己的符号角色,不复刻其"小橙/线人/线猫"外观。见 `references/display-modes.md`。
 - **[helloianneo/ian-xiaohei-scenes](https://github.com/helloianneo/ian-xiaohei-scenes)**(小黑 2.0 · Ian)— **展示模式 B2「真实物件现场」**方法来源:白底 + 手绘符号角色 + 照片级写实 3D 物体物理互动 + 留白叙事(对应本库皮肤 G)。同样只借方法不抄"小黑"外观。
+- **[yangchuansheng/visual-ip-illustrations](https://github.com/yangchuansheng/visual-ip-illustrations)**(同源兄弟 fork,上游同为 helloianneo)— **选角工程**方法来源:① 角色「适不适合当配图演员」5 条选角标准(`character-spec.md`)② 团块无肢角色配「需要时伸出的可伸缩细手」让它能演动作(此手法出自它借用的 `okooo5km/5km-littlebox-illustrations` 纸盒形象)。⚠️ 它全部角色(纸盒=okooo5km / 海豹=Sealos 品牌吉祥物 / 汤姆=华纳 / Ferris=Rust / Gopher=Go / 蔡徐坤=本人)**均为借用的他人 IP**,本库只学它"什么形象天生适合演动作"的选角原理,**不抄任何具体形象**——演员一律自己原创。2026-06-25 加。
 
 ## 本项目自己的部分
 

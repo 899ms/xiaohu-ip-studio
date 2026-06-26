@@ -26,7 +26,7 @@ TWO references: FIRST = character identity (keep exactly), SECOND = expression e
 | 严肃/憋/认真 | 严肃-憋.png | 第22页眉头紧锁 |
 | 偷乐/狡黠 | 偷乐-狡黠.png | 第12页假装系统更新 |
 
-找不到精确匹配 → 去 `/Users/apple/Downloads/小互摸鱼记/`(100 页全库)按文件名情绪挑,cp 进 `characters/xiaohu/refs/演技锚点/` 补充。
+找不到精确匹配 → 去 `<你的角色参考图库>/`(你自建的全库)按文件名情绪挑,cp 进 `characters/xiaohu/refs/演技锚点/` 补充。
 
 ## 皮肤与表情
 
