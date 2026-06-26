@@ -1,5 +1,7 @@
 # 小互 IP Studio · 开源中文配图技能
 
+[English](README.en.md) | [简体中文](README.md)
+
 把「中文深度文配图方法论」+「可扩展 IP 角色库」打包的开源 [Agent Skill](https://docs.claude.com/en/docs/claude-code/skills)。自带 **31 个手绘风原创 IP 角色**,装上挑一个就能给文章配图——**没有自己的 IP 形象,也能立刻用起来**。
 
 > 方法论恒定,角色与画风是参数。脱胎于小黑 / 宝玉 / 卷卷 / illo / 橙线 几个开源配图技能,学原理不抄外观,血统与致谢见 [CREDITS.md](CREDITS.md)。
@@ -32,6 +34,65 @@
 - 符号成精 ×5:问号人 / 叹号人 / 闪电 / 五角星 / 三角
 
 写哪类文章就调哪个角色:讲 AI 焦虑用替替,讲打工人用牛马,讲躺平用团团。一篇锁一个主角,整组图气质就立住了。
+
+## 角色全家福
+
+**系列一 · 手绘线稿 ×15**
+
+<table>
+<tr>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/characters/dandan/refs/dandan-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>淡淡</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/characters/dianliang/refs/dianliang-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>电量</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/characters/dingling/refs/dingling-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>丁零</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/characters/fangfang/refs/fangfang-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>方方</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/characters/fengzai/refs/fengzai-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>疯崽</sub></td>
+</tr>
+<tr>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/characters/muyu/refs/muyu-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>木鱼</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/characters/niuma/refs/niuma-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>牛马</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/characters/paopao/refs/paopao-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>泡泡</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/characters/pofang/refs/pofang-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>破防君</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/characters/suosuo/refs/suosuo-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>缩缩</sub></td>
+</tr>
+<tr>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/characters/tietie/refs/tietie-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>贴贴</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/characters/titi/refs/titi-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>替替</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/characters/tuantuan/refs/tuantuan-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>团团</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/characters/xiaohu/refs/xiaohu-%E7%BA%BF%E7%A8%BF.png" width="96"><br><sub>小互</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/characters/xuming/refs/xuming-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>续命</sub></td>
+</tr>
+</table>
+
+**系列二 · 谐音梗 meme ×16**
+
+<table>
+<tr>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/food-mascots/jiaolv/refs/jiaolv-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>蕉绿</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/food-mascots/jiucai/refs/jiucai-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>韭菜</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/food-mascots/kafei/refs/kafei-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>续命咖啡</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/food-mascots/kugua/refs/kugua-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>苦瓜脸</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/food-mascots/lajiao/refs/lajiao-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>暴躁辣椒</sub></td>
+</tr>
+<tr>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/food-mascots/mogu/refs/mogu-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>蘑菇</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/food-mascots/ningmeng/refs/ningmeng-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>柠檬精</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/food-mascots/qiezi/refs/qiezi-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>茄子</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/food-mascots/sanjiao/refs/sanjiao-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>三角</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/food-mascots/shandian/refs/shandian-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>闪电</sub></td>
+</tr>
+<tr>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/food-mascots/suanle/refs/suanle-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>蒜鸟</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/food-mascots/tanhao/refs/tanhao-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>叹号人</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/food-mascots/wenhao/refs/wenhao-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>问号人</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/food-mascots/wujiaoxing/refs/wujiaoxing-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>五角星</sub></td>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/food-mascots/xianyu/refs/xianyu-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>咸鱼</sub></td>
+</tr>
+<tr>
+<td align="center" width="20%"><img src="https://raw.githubusercontent.com/xiaohuailabs/xiaohu-ip-studio/main/food-mascots/yangcong/refs/yangcong-%E9%94%9A%E7%82%B9.png" width="96"><br><sub>洋葱</sub></td>
+</tr>
+</table>
+
+> 完整可交互版（含人设说明）打开 [`ip-library.html`](ip-library.html)。
 
 ## 装
 
